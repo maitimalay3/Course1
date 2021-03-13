@@ -1,0 +1,22 @@
+_111407227_whatsubject.jpg100319": {
+		"filename": "_111407227_whatsubject.jpg",
+		"size": 100319,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "rect",
+					"x": 594,
+					"y": 53,
+					"width": 108,
+					"height": 74
+				},
+				"region_attributes": {
+					"class": "hardhat"
+				}
+
+
+File name
+Size of the image
+shape attibutes: Rectangular Shape, x and y position, width and height of the image
+class name: redhat or vest or boots or mask
+
